@@ -1,0 +1,27 @@
+Part 1 Abstraction:
+
+Describe the difference between a virtual method and an abstract method. 
+Virtual method- A base class method that can be overridden by derived classes, with a default implementation.
+Abstract method- A method without an implementation in the base class; derived classes must implement it.
+
+
+Explain why a developer would use abstraction.
+Abstraction simplifies code by hiding complex details. 
+It lets you use objects at a high level, like calling `CalculateArea()` without needing to know how each shape works.
+
+
+Part 2 Encapsulation:
+
+List two reasons why a developer would use accessors (getters and setters).
+
+1.Control Over Data- Ensures fields are modified correctly.
+
+2.Encapsulation:-Hides the inner details of an object while still allowing access to its data.
+
+
+
+Describe the difference between a private and protected attribute.
+
+Private- The attribute can only be accessed within the class it’s defined.
+
+Protected- The attribute can be accessed within the class and by subclasses.

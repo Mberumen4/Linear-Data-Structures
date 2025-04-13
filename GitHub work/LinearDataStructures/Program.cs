@@ -8,7 +8,7 @@ namespace LinearDataStructures
         {
             // Uncomment the one you want to test
 
-             ReverseWithStack.Run();
+            // ReverseWithStack.Run();
             // CountOccurrences.Run();
             // GenerateSequenceQueue.Run();
         }

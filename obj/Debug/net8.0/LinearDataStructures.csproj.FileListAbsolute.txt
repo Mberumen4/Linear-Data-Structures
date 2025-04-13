@@ -1,0 +1,15 @@
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\bin\Debug\net8.0\LinearDataStructures.exe
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\bin\Debug\net8.0\LinearDataStructures.deps.json
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\bin\Debug\net8.0\LinearDataStructures.runtimeconfig.json
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\bin\Debug\net8.0\LinearDataStructures.dll
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\bin\Debug\net8.0\LinearDataStructures.pdb
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\obj\Debug\net8.0\LinearDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\obj\Debug\net8.0\LinearDataStructures.AssemblyInfoInputs.cache
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\obj\Debug\net8.0\LinearDataStructures.AssemblyInfo.cs
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\obj\Debug\net8.0\LinearDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\obj\Debug\net8.0\LinearDataStructures.sourcelink.json
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\obj\Debug\net8.0\LinearDataStructures.dll
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\obj\Debug\net8.0\refint\LinearDataStructures.dll
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\obj\Debug\net8.0\LinearDataStructures.pdb
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\obj\Debug\net8.0\LinearDataStructures.genruntimeconfig.cache
+C:\Users\matthew\Source\Repos\Linear-Data-Structures1\obj\Debug\net8.0\ref\LinearDataStructures.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinearDataStructures")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e71af57ac988dc76b679b99d4f82a73f05672c0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b7d0606623c86fcc683e6eb2592a74956f9169b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinearDataStructures")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinearDataStructures")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

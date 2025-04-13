@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matthew\\source\\repos\\GitHub work\\LinearDataStructures\\LinearDataStructures.csproj": {}
+    "C:\\Users\\matthew\\Source\\Repos\\Linear-Data-Structures1\\LinearDataStructures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matthew\\source\\repos\\GitHub work\\LinearDataStructures\\LinearDataStructures.csproj": {
+    "C:\\Users\\matthew\\Source\\Repos\\Linear-Data-Structures1\\LinearDataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matthew\\source\\repos\\GitHub work\\LinearDataStructures\\LinearDataStructures.csproj",
+        "projectUniqueName": "C:\\Users\\matthew\\Source\\Repos\\Linear-Data-Structures1\\LinearDataStructures.csproj",
         "projectName": "LinearDataStructures",
-        "projectPath": "C:\\Users\\matthew\\source\\repos\\GitHub work\\LinearDataStructures\\LinearDataStructures.csproj",
+        "projectPath": "C:\\Users\\matthew\\Source\\Repos\\Linear-Data-Structures1\\LinearDataStructures.csproj",
         "packagesPath": "C:\\Users\\matthew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matthew\\source\\repos\\GitHub work\\LinearDataStructures\\obj\\",
+        "outputPath": "C:\\Users\\matthew\\Source\\Repos\\Linear-Data-Structures1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
